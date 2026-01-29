@@ -2,6 +2,7 @@
 
 /**
  * binary_tree_preorder - pre-order traversal
+ * @tree: current node of the tree
  * @func: pointer to function
  */
 
