@@ -1,4 +1,4 @@
-#include "binarty_trees.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_leaves - checks count of leaves in the binary tree
