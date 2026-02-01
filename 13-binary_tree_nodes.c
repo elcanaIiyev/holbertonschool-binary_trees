@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_leaves - checks count of the parent nodes in binary tree
+ * binary_tree_nodes - checks count of the parent nodes in binary tree
  * @tree: pointer to the exact node
  * Return: returns count of the parent nodes
  */
