@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 
 /**
  * _pow - helper function for power operation
